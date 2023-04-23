@@ -6,6 +6,10 @@ UCF Data Analysis - Module 6 Challenge: APIs
 ## Description
 Python requests, APIs, and JSON traversals to conduct statistical analysis on Max Temperature vs different geographical data.  Plot results including map views.
 
+## Visuals
+
+![Fig1](https://user-images.githubusercontent.com/127908349/233822918-9b43776e-39b0-40e8-a9f0-033d6ecfb5da.png)
+
 ## Authors and acknowledgment
 Help obtained from:
 * [makereadme.com](https://www.makeareadme.com/) for README.md template
