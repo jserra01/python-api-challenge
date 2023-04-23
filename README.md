@@ -14,7 +14,7 @@ Help obtained from:
 * [matplotlib.org](https://matplotlib.org/) and [finxter.com](https://blog.finxter.com/matplotlib-boxplot/) for help with Matplotlib plots
 * [hvplot.org](https://hvplot.holoviz.org/) for details on visualizing API data and customizing hvplot
 * [geoapify.com](https://apidocs.geoapify.com/docs/places/#about) for details and instructions on usage of Geoapify Places API
-* [citipy](https://github.com/wingchen/citipy/blob/master/README.md) instructions on citipy usage
+* [citipy](https://github.com/wingchen/citipy/blob/master/README.md) credit and instructions on citipy usage
 
 ## Project status
 Project has been completed and submitted for grading for the 2023 UCF Data Analysis and Visualization course.
